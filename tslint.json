@@ -11,6 +11,7 @@
     "max-line-length": [true, 150],
     "member-ordering": [false],
     "semicolon": [true, "never"],
+    "variable-name": [false],
     "interface-name": [false],
     "arrow-parens": false,
     "object-literal-sort-keys": false
